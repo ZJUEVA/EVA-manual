@@ -1,6 +1,6 @@
 site_name: E志者协会维修手册
 site_url: https://docs.zjueva.org
-repo_url: https://gitee.com/zjueva/eva-manual
+repo_url: https://github.com/ZJUEVA/EVA-manual
 nav:
   - 首页: 
     - 首页: index.md
