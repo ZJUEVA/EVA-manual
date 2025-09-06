@@ -4,6 +4,8 @@
 
 当前使用[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)构建。
 
+当前，手册分为[电脑软件](docs/software/)、[电脑硬件](docs/hardware/)、[电器维修](docs/appliance/)三个部分。设想中，前两个部分由电脑部维护，第三个部分由电器部维护。
+
 手册尚未部署到网站上。如果想要临时查看本文档，或者需要为本文档编写文章，可以遵循以下步骤。
 
 1. 在电脑上部署Python环境，确保安装了`pip`，且已经添加进环境变量中
