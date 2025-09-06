@@ -19,3 +19,5 @@ pip install mkdocs-material
 mkdocs serve
 ```
 4. 访问[localhost:8000](localhost:8000)即可看到文档的预览。
+
+© 2025 E志者协会. 本作品采用 CC BY-NC-SA 4.0 许可。
