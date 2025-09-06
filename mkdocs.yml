@@ -1,4 +1,18 @@
 site_name: E志者协会维修手册
 site_url: https://docs.zjueva.org
+repo_url: https://gitee.com/zjueva/eva-manual
+nav:
+  - 首页: index.md
+  - 电脑硬件: hardware/index.md
+  - 电脑软件: software/index.md
+  - 电器维修: appliance/index.md
+
 theme:
   name: material
+  language: zh
+  features:
+    - navigation.instant
+    - navigation.tabs
+
+plugins:
+  - search

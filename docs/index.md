@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+---
+title: 首页
+---
+# 欢迎查看E志者协会维修手册
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+这是一份维修手册。目前还在完善中，写得比较完善之后可能考虑在98上发布一下。
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+维修手册目前分为3大块，分别是[电脑软件](/software/)、[电脑硬件](/hardware/)和[电器维修](/appliance/)。
