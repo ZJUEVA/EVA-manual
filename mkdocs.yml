@@ -12,6 +12,8 @@ nav:
     - software/index.md
   - 电器维修: 
     - appliance/index.md
+  - 2025 购机指南:
+    - 购机指南（上）: purchasing-guide/2025-1/index.md
 
 theme:
   name: material
