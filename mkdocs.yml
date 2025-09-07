@@ -7,9 +7,10 @@ nav:
     - E志维修相关: process.md
     - 校外价格表: costs.md
   - 电脑硬件: 
-    - hardware/index.md
+    - 概述: hardware/index.md
   - 电脑软件: 
-    - software/index.md
+    - 概述: software/index.md
+    - 重装系统: software/reinstall-system.md
   - 电器维修: 
     - appliance/index.md
   - 2025 购机指南:
@@ -25,6 +26,7 @@ theme:
     - navigation.tabs
     - navigation.footer
     - content.code.copy
+copyright: "<a href='https://zjueva.net'>E志者协会</a>"
 
 plugins:
   - search
