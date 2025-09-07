@@ -8,9 +8,11 @@ nav:
     - 校外价格表: costs.md
   - 电脑硬件: 
     - 概述: hardware/index.md
+    - BIOS 设置: hardware/BIOS-settings.md
   - 电脑软件: 
     - 概述: software/index.md
     - 重装系统: software/reinstall-system.md
+    - 备份数据: software/backup-data.md
   - 电器维修: 
     - appliance/index.md
   - 2025 购机指南:

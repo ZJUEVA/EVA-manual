@@ -38,6 +38,8 @@ mkdocs serve
 
 如果一篇文章有较多图片需要插入，可在对应位置新建一个名为`title`的文件夹，里面新建一个名为`index.md`的文件，同时新建一个`images`文件夹。将需要插入的图片放在里面。（示例：[购机指南](docs/purchasing-guide/2025-1/)）
 
+在编写中，你可以参照[这个链接](https://squidfunk.github.io/mkdocs-material/reference/)使用一些基础 Markdown 不支持的元素。如果有未启用的功能，你可以在仓库中提issue。
+
 在编写完成后，你可以将文章添加至索引中。索引的具体位置：
 
 根目录下的[mkdocs.yml](mkdocs.yml)文件中的`nav`字段。
