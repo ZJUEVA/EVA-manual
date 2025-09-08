@@ -12,6 +12,7 @@ nav:
   - 电脑软件: 
     - 概述: software/index.md
     - 重装系统: software/reinstall-system.md
+    - Bitlocker: software/bitlocker.md
     - 备份数据: software/backup-data.md
   - 电器维修: 
     - appliance/index.md
