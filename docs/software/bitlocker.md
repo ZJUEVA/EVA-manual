@@ -37,6 +37,6 @@ Bitlocker 密钥是开启 Bitlocker 时系统自动生成的48位数字。
 
 但是，如果遇到系统崩溃，无法正常进入时；或系统硬件有较大更改，Windows 判断存在安全风险时，我们需要输入 Bitlocker 恢复密钥。。
 
-可以访问[这个网站](https://aka.ms/myrecoverykey)并登录微软账号以查找自己微软账号下的 Bitlocker 恢复密钥。
+可以访问 [**这个网站**](https://aka.ms/myrecoverykey) 并登录微软账号以查找自己微软账号下的 Bitlocker 恢复密钥。
 
 磁盘里的每一个分区（即C盘、D盘等）都有一个对应的密钥。当你试图打开加密分区时，Windows 系统会提供一个驱动器号，在上述网站中找到对应的驱动器号和恢复密钥，键入即可。
