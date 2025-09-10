@@ -10,6 +10,7 @@ nav:
     - 概述: hardware/index.md
     - BIOS 设置: hardware/BIOS-settings.md
     - 数据恢复: hardware/data-recovery.md
+    - 电池: hardware/battery.md
   - 电脑软件: 
     - 概述: software/index.md
     - 重装系统: software/reinstall-system.md
