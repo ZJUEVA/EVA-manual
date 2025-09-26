@@ -10,7 +10,7 @@
 
 ~~手册尚未部署到网站上。如果想要临时查看本文档，或者需要为本文档编写文章，可以遵循以下步骤。~~
 
-现在可以使用[GitHub Pages](https://zjjncsn.github.io/EVA-manual/)预览本手册
+现在可以使用[GitHub Pages](https://zjueva.github.io/EVA-manual/)预览本手册
 
 ## 编写指南
 

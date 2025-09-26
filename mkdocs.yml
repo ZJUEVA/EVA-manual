@@ -11,11 +11,17 @@ nav:
     - BIOS 设置: hardware/BIOS-settings.md
     - 数据恢复: hardware/data-recovery.md
     - 电池: hardware/battery.md
+    - 维修案例:
+      - hardware/case/1.md
+      - hardware/case/2.md
+      - hardware/case/3.md
   - 电脑软件: 
     - 概述: software/index.md
     - 重装系统: software/reinstall-system.md
     - Bitlocker: software/bitlocker.md
     - 备份数据: software/backup-data.md
+    - 维修案例:
+      - software/case/1.md
   - 电器维修: 
     - appliance/index.md
   - 2025 购机指南:
