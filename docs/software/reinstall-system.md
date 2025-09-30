@@ -19,7 +19,7 @@
 
 ### 重装前的准备
 
-- [备份](/software/backup-data)好你需要的全部文件。
+- [备份](/software/backup-data.md)好你需要的全部文件。
 
 ### 重装流程
 
@@ -47,8 +47,8 @@
 1. 在可以正常使用的电脑上下载一个PE软件，如[WePE](https://www.wepe.com.cn/)、[FirPE](https://www.firpe.cn)。
 2. 打开下载的软件，将USB制作成PE盘，选项保持默认即可。
 3. 下载需要安装操作系统的镜像文件。可以到这些地方下载：[浙大正版软件平台](http://ms.zju.edu.cn)、[itellyou](https://next.itellyou.cn)、[微软官网 - Win 11](https://www.microsoft.com/zh-cn/software-download/windows11)、[微软官网 - Win 10](https://www.microsoft.com/zh-cn/software-download/windows10)。在微软官网下载时请选择下载iso文件。下载好后放到PE盘的剩余空间。
-4. 将U盘插入待重装的电脑，按照[BIOS设置](/hardware/BIOS-settings)中的方法，从USB启动。
-5. [备份](/software/backup-data)好你需要的全部文件。
+4. 将U盘插入待重装的电脑，按照[BIOS设置](/hardware/BIOS-settings.md)中的方法，从USB启动。
+5. [备份](/software/backup-data.md)好你需要的全部文件。
 6. 右键原系统盘，`格式化`，全部默认即可。（如果想要清空电脑并合并分区，可以在此时格式化所有盘，在PE系统的开始菜单里找到`磁盘管理`，删除其他卷，再扩展C盘对应的卷。）
 
     !!! danger "警告"
