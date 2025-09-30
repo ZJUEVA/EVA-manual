@@ -15,11 +15,14 @@ nav:
       - hardware/case/1.md
       - hardware/case/2.md
       - hardware/case/3.md
+      - hardware/case/4.md
   - 电脑软件: 
     - 概述: software/index.md
     - 重装系统: software/reinstall-system.md
     - Bitlocker: software/bitlocker.md
     - 备份数据: software/backup-data.md
+    - 制作启动盘: software/make-startup-device.md
+    - 移动C盘文件夹: software/move-folders-from-disk-C/index.md
     - 维修案例:
       - software/case/1.md
   - 电器维修: 
