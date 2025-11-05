@@ -2,90 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.zjueva.org/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://docs.zjueva.org/costs/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://docs.zjueva.org/process/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://docs.zjueva.org/appliance/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://docs.zjueva.org/hardware/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://docs.zjueva.org/hardware/BIOS-settings/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://docs.zjueva.org/hardware/battery/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://docs.zjueva.org/hardware/data-recovery/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.zjueva.org/hardware/driver-links/</loc>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://docs.zjueva.org/hardware/case/1/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://docs.zjueva.org/hardware/case/2/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://docs.zjueva.org/hardware/case/3/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://docs.zjueva.org/hardware/case/4/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.zjueva.org/hardware/start-disassembling/</loc>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://docs.zjueva.org/purchasing-guide/2025-1/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://docs.zjueva.org/software/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://docs.zjueva.org/software/backup-data/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://docs.zjueva.org/software/bitlocker/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://docs.zjueva.org/software/make-startup-device/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://docs.zjueva.org/software/reinstall-system/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://docs.zjueva.org/software/case/1/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
     <url>
          <loc>https://docs.zjueva.org/software/move-folders-from-disk-C/</loc>
-         <lastmod>2025-10-18</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.zjueva.org/training/disassemble-and-clean/</loc>
-         <lastmod>2025-10-18</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.zjueva.org/training/lab-rules/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-11-05</lastmod>
     </url>
 </urlset>
