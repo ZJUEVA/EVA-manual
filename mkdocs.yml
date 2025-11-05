@@ -8,6 +8,8 @@ nav:
     - 校外价格表: costs.md
   - 电脑硬件: 
     - 概述: hardware/index.md
+    - 开始拆卸: hardware/start-disassembling/index.md
+    - 厂家下载链接合集: hardware/driver-links.md
     - BIOS 设置: hardware/BIOS-settings.md
     - 数据恢复: hardware/data-recovery.md
     - 电池: hardware/battery.md
@@ -29,9 +31,7 @@ nav:
     - appliance/index.md
   - 2025 购机指南:
     - 购机指南（上）: purchasing-guide/2025-1/index.md
-  - 内训资料:
-    - 值班规范与实验室规范: training/lab-rules/index.md
-    - 拆机与清灰: training/disassemble-and-clean/index.md
+
 theme:
   name: material
   language: zh
