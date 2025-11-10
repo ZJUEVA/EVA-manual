@@ -9,6 +9,7 @@ nav:
   - 电脑硬件: 
     - 概述: hardware/index.md
     - 开始拆卸: hardware/start-disassembling/index.md
+    - 清灰换硅脂: hardware/clean-dust/index.md
     - 厂家下载链接合集: hardware/driver-links.md
     - BIOS 设置: hardware/BIOS-settings.md
     - 数据恢复: hardware/data-recovery.md
@@ -42,7 +43,7 @@ theme:
     - navigation.tabs
     - navigation.footer
     - content.code.copy
-copyright: "<a href='https://zjueva.net'>E志者协会</a>"
+copyright: "<p>© 2025<a href='https://zjueva.net'> E志者协会</a></p><p>除特殊注明外，本作品采用<a href=https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans>CC BY-NC-SA 4.0</a>许可。作品中引用他人的内容，权利归属原作者所有。</p>"
 
 plugins:
   - search
