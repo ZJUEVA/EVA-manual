@@ -10,7 +10,9 @@
 
 ~~手册尚未部署到网站上。如果想要临时查看本文档，或者需要为本文档编写文章，可以遵循以下步骤。~~
 
-现在可以使用[GitHub Pages](https://zjueva.github.io/EVA-manual/)预览本手册
+现在可以使用[GitHub Pages](https://zjueva.github.io/EVA-manual/)预览本手册。
+
+手册部署在 [EVA Doc](https://doc.zjueva.net) 上，cname至上述链接。
 
 ## 编写指南
 
@@ -27,6 +29,25 @@ pip install mkdocs-material
 mkdocs serve
 ```
 4. 访问[localhost:8000](localhost:8000)即可看到文档的预览。
+
+### 无法自动刷新的解决方案
+
+Material for Mkdocs 的 issue [#8478](https://github.com/squidfunk/mkdocs-material/issues/8478) 报导了这个问题。
+
+可以使用
+
+```shell
+mkdocs serve --livereload
+```
+进行预览
+
+也可以使用
+
+```shell
+pip install click==8.2.1
+```
+
+将click库固定在8.2.1版本。
 
 ## 编写规范
 
